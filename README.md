@@ -23,10 +23,22 @@ Aplicación web desarrollada con React y Vite que permite buscar y visualizar GI
 
 ---
 
+## 🌐 Publicación del proyecto
+
+🔹 Netlify (rama main)
+La rama principal (main) está conectada a Netlify, que genera automáticamente un build y lo publica desde la raíz del repositorio.
+
+👉 https://gif-expert-app-mf.netlify.app
+
+🔸 GitHub Pages (rama gh-pages-config)
+La rama secundaria gh-pages-config incluye la configuración específica para publicar usando GitHub Pages, con Vite y el paquete gh-pages.
+
+👉 https://mfguega.github.io/gif-expert-app
+
+---
+
 ## 📸 Vista previa
 
-👉 Puedes ver cómo luce la app en producción visitando la URL pública:
-
-[https://gif-expert-app-mf.netlify.app](https://gif-expert-app-mf.netlify.app)
+Puedes visitar cualquiera de los enlaces anteriores para ver la app en funcionamiento.
 
 ---
