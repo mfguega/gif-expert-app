@@ -22,3 +22,11 @@ Aplicación web desarrollada con React y Vite que permite buscar y visualizar GI
 - CSS3
 
 ---
+
+## 📸 Vista previa
+
+👉 Puedes ver cómo luce la app en producción visitando la URL pública:
+
+[https://gif-expert-app-mf.netlify.app](https://gif-expert-app-mf.netlify.app)
+
+---
