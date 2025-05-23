@@ -7,7 +7,7 @@ Aplicación web desarrollada con React y Vite que permite buscar y visualizar GI
 ## 🚀 Funcionalidades
 
 - 🔍 Buscar GIFs por categorías o palabras clave
-- 🖼️ Visualización automática de los primeros 10 resultados
+- 🖼️ Visualización automática de los primeros 12 resultados
 - 🔁 Carga dinámica mediante consumo de API
 - ⚛️ Uso de React Hooks y Vite como entorno de desarrollo moderno
 
